@@ -9,3 +9,4 @@ git status
 ssh-keygen -t ecdsa -C "nallasunil01@gmail.com"
 tail <path to id rsa.pub> #add this key to your GitHub account
 git remote add origin <ssh url.git>
+git push origin master
